@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22863" started-at="2020-11-17T05:53:16Z" finished-at="2020-11-17T05:53:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22863" started-at="2020-11-17T05:53:16Z" finished-at="2020-11-17T05:53:39Z">
+      <class name="com.project.SeptemberSelenium12PMMaven.TC_006">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.project.SeptemberSelenium12PMMaven.TC_006@3e3047e6]" name="beforeMethod" is-config="true" duration-ms="15314" started-at="2020-11-17T05:53:16Z" finished-at="2020-11-17T05:53:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.project.SeptemberSelenium12PMMaven.TC_006@3e3047e6]" name="f" duration-ms="5478" started-at="2020-11-17T05:53:31Z" finished-at="2020-11-17T05:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.SeptemberSelenium12PMMaven.TC_006@3e3047e6]" name="afterMethod" is-config="true" duration-ms="1989" started-at="2020-11-17T05:53:37Z" finished-at="2020-11-17T05:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.project.SeptemberSelenium12PMMaven.TC_006 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
